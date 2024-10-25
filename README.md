@@ -11,7 +11,7 @@ Commits combined to remove extra data
 <img width="1280" alt="image" src="https://github.com/clumsyninja3086/PathFinder/assets/34381007/9b1805a9-a64c-4c9d-8920-3bc6307f36bd">
 
 
-The problem Vistech solves:
+The problem Sight-Sense solves:
 
 Limited Environmental Awareness: Visually impaired individuals often struggle to perceive and understand their surroundings, leading to a lack of awareness about objects, people, and potential obstacles in their path. Our app's environment description features provide real-time information about the environment, allowing users to better navigate and interact with their surroundings.
 
