@@ -1,5 +1,5 @@
 # PathFinder
-VISTECH - SRM hackathon project
+VISTECH - Brainwave hackathon project
 
 Commits combined to remove extra data
 
