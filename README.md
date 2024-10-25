@@ -1,5 +1,4 @@
-# PathFinder
-VISTECH - Brainwave hackathon project
+Sight-Sense - Brainwave hackathon project
 
 Commits combined to remove extra data
 
